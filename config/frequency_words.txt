@@ -1,7 +1,17 @@
 人工智能
 AI
 LLM
+Agent
+智能体
 AGI
+具身智能
+
+存储
+内存
+GPU
+CPU
+TPU
+显存
 
 可穿戴
 耳机
